@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "鐘泣く命",
+  "base_artist": "indigo la End",
+  "createdAt": "2025-12-09T05:12:08.463659Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "鐘泣く命",
+      "artist": "indigo la End",
+      "has_synced": false,
+      "path": "select/01_鐘泣く命_indigo_la_End.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "鐘泣く命 [Life of the Crying Bell]",
+      "artist": "indigo la End",
+      "has_synced": true,
+      "path": "select/02_鐘泣く命_[Life_of_the_Crying_Bell]_indigo_la_End.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "鐘泣く命",
+      "artist": "indigo la End",
+      "has_synced": true,
+      "path": "select/03_鐘泣く命_indigo_la_End.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "鐘泣く命",
+      "artist": "indigo la End",
+      "has_synced": false,
+      "path": "select/pl_01_鐘泣く命_indigo_la_End.txt"
+    }
+  ]
+}
